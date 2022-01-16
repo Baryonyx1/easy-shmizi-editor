@@ -1,0 +1,1 @@
+# easy-shmizi-editor
